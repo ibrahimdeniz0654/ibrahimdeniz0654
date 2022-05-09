@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h2> 👋   Hi there! I'm Hüseyin Yildiz...:wave: ✨ </h2>
+<h2> 👋   Hi there! I'm Ibrahim Deniz...:wave: ✨ </h2>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
 
@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 - 📫  How to reach me: 
 
 ## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yildiz3/)
-[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/yildiz38h)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:yildiz38h@gmail.com)
-<a href="https://public.tableau.com/app/profile/yildiz3"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@yildiz3/)
-<a href="https://www.kaggle.com/hseyinyildiz"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Tableau" height="30"> </a>
-<a href="https://www.sololearn.com/profile/25514262"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yildiz3" alt="yildiz3" /> </p>
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-deniz-8a996a5b/)
+[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:denizmiharbi@gmail.com)
+<a href="https://public.tableau.com/> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@denizmiharbi)
+<a href="https://www.kaggle.com/denizmiharbi5406"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Tableau" height="30"> </a>
+<a href="https://www.sololearn.com/profile/25781062"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/489px-SoloLearn_logo.svg.png?20210710155454" alt="Tableau"  height="25"> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimdeniz0654" alt="ibrahimdeniz0654" /> </p>
 
 
 ## 💻 Data Visualization
